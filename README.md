@@ -2,4 +2,8 @@
 
 test git miha
 
-        code/text here
+## Инстурукция для использования гита
+
+1. клонируем репозиторий
+
+    git clone https://github.com/mseleznevv/avm_fool_game.git
